@@ -1,0 +1,2 @@
+rootProject.name = "JustLiveData"
+include ':app'
